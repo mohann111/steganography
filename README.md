@@ -19,7 +19,7 @@ This project implements image steganography using Python and OpenCV, allowing se
 ## Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/mohann111/stenography.git
+   git clone https://github.com/mohann111/steganography.git
    ```
 2. Install dependencies:  
    ```bash
