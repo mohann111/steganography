@@ -1,6 +1,3 @@
-#Here's a basic structure for your GitHub README file:
-
----
 
 # Secure Data Hiding in Image Using Steganography  
 
@@ -21,7 +18,7 @@ This project implements image steganography using Python and OpenCV, allowing se
 ## Installation  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/mohan111/stenography.git
+   git clone https://github.com/mohann111/stenography.git
    ```
 2. Install dependencies:  
    ```bash
