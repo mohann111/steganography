@@ -41,6 +41,10 @@ Run the decryption script to extract the hidden message:
 python decrypt.py output.png
 ```
 You will need to enter the correct password to retrieve the message successfully.
+![2025-02-26 21_15_49-IDLE Shell 3 13 2](https://github.com/user-attachments/assets/9a33071f-4f4c-4eeb-bd0c-758a2b14d316)
+![2025-02-26 21_16_32-IDLE Shell 3 13 2](https://github.com/user-attachments/assets/26ebd96d-2366-4ab2-b6b3-a076e3bab9d7)
+![2025-02-26 21_14_27-_IDLE Shell 3 13 2_](https://github.com/user-attachments/assets/3de0eb3b-63b2-4495-ad1d-90afb11bacdc)
+
 
 ## How It Works  
 - The script modifies the least significant bits (LSB) of pixel values to encode text data.  
@@ -58,7 +62,7 @@ You will need to enter the correct password to retrieve the message successfully
 **Decryption with Correct Password:**  
 📝 "Your secret message"  
 
-## License  
-This project is licensed under the MIT License.  
+ 
+
 
 
